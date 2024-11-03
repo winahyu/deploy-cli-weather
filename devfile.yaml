@@ -6,8 +6,7 @@ commands:
 - apply:
     component: deploy
     group:
-      isDefault: true
-      kind: deploy
+      <CHANGE_ME>
   id: deployk8s
 
 components:
